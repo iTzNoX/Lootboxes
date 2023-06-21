@@ -1,0 +1,44 @@
+{
+    "slaughters": {
+        "SlaughtersWorld": 15.0,
+        "AxesInversion": 3.0,
+        "BladeInstruction": 6.0,
+        "SharpSharper": 10.0,
+        "LastChapter": 12.0
+    },
+    "slaughtersValue": 6.0,
+    "slaughtersAmount": 46,
+    "destination": {
+        "Wish": 5.0,
+        "Thought": 4.0,
+        "Pain": 1.0,
+        "SecondPai": 2.0,
+        "FairTrade": 3.0
+    },
+    "destinationValue": 3.0,
+    "destinationAmount": 36,
+    "fantasy": {
+        "UnicornBash": 15.0,
+        "WishesExpansion": 18.0,
+        "ChildsExtend": 21.0,
+        "MagicBean": 27.0,
+        "WandOfTheEnd": 39.0
+    },
+    "fantasyValue": 20.0,
+    "fantasyAmount": 49,
+    "melonsworld": {
+        "Orangezooka": 50.0,
+        "Melon-47": 80.0,
+        "PP-Banan": 110.0,
+        "M4-Cucumber": 195.0,
+        "Glockiwi": 430.0
+    },
+    "melonsworldValue": 100.0,
+    "melonsworldAmount": 50,
+    "flip": {
+        "GGgoNext": 1.0,
+        "BigWubbleDiDobbleDiDu": 5000.0
+    },
+    "flipValue": 2500.0,
+    "flipAmount": 50
+}
