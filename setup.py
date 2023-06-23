@@ -14,6 +14,6 @@ long_description_content_type = "text/markdown",
 url = "https://github.com/iTzNoX/Lootboxes",
 project_urls = "https://github.com/iTzNoX/Lootboxes", 
 license="MIT",
-python_requires >= "3.11",
+python_requires >= "3.11"
 )
   
